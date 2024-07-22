@@ -30,3 +30,4 @@ A:\Gabriel\Programação\SmartSchool\SmartSchool_WebAPI\SmartSchool_WebAPI\obj\D
 A:\Gabriel\Programação\SmartSchool\SmartSchool_WebAPI\SmartSchool_WebAPI\obj\Debug\net8.0\SmartSchool_WebAPI.pdb
 A:\Gabriel\Programação\SmartSchool\SmartSchool_WebAPI\SmartSchool_WebAPI\obj\Debug\net8.0\SmartSchool_WebAPI.genruntimeconfig.cache
 A:\Gabriel\Programação\SmartSchool\SmartSchool_WebAPI\SmartSchool_WebAPI\obj\Debug\net8.0\ref\SmartSchool_WebAPI.dll
+A:\Gabriel\Programação\SmartSchool\SmartSchool_WebAPI\SmartSchool_WebAPI\obj\Debug\net8.0\SmartSchool_WebAPI.sourcelink.json
