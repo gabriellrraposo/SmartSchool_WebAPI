@@ -1,6 +1,6 @@
 @SmartSchool_WebAPI_HostAddress = http://localhost:5287
 
-GET {{SmartSchool_WebAPI_HostAddress}}/weatherforecast/
+GET {{SmartSchool_WebAPI_HostAddress}}/
 Accept: application/json
 
 ###
