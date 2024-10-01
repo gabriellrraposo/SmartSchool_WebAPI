@@ -4,21 +4,15 @@
     {
         public int Id { get; set; }
         public string Nome { get; set; }
-        public string Sobrenome { get; set; }
-        public string Disciplina { get; set; }
+        public IEnumerable<Disciplina> Disciplinas { get; set; }
 
-        public Professor(int id, string nome, string sobrenome, string disciplina)
+        public Professor() {}
+        public Professor(int id, string nome)
         {
             Id = id;
             Nome = nome;
-            Sobrenome = sobrenome;
-            Disciplina = disciplina;
         }
 
-        public Professor()
-        {
-
-        }
 
     }
 }

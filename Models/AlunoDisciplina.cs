@@ -2,11 +2,7 @@
 {
     public class AlunoDisciplina
     {
-        public AlunoDisciplina()
-        {
-            
-        }
-
+        public AlunoDisciplina() {}
         public AlunoDisciplina(int alunoid, int disciplinaid)
         {
             AlunoId = alunoid;

@@ -7,11 +7,7 @@
         public int ProfessorId { get; set; }
         public Professor? Professor { get; set; }
 
-        public Disciplina()
-        {
-            
-        }
-
+        public Disciplina() {}
         public Disciplina(int id, string nome, int professorid)
         {
             Id = id;
