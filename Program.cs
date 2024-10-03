@@ -9,6 +9,7 @@ builder.Services.AddDbContext<DataContext>(
     x => x.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"))
 );
 builder.Services.AddControllers();
+builder.Services.AddScoped<IRepository, Repository>();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
